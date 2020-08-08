@@ -7,6 +7,8 @@ Created on Sat Aug  8 11:48:55 2020
 # based on: http://viennacl.sourceforge.net/pyviennacl/doc/examples/direct-solvers.html
 # for the purpose of spice, this would be more appropriate: 
 # http://viennacl.sourceforge.net/pyviennacl/doc/examples/iterative-solvers.html
+
+
 import pyviennacl as p
 import numpy as np
 import random
