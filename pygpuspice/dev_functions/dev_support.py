@@ -4,6 +4,8 @@ Created on Sat Aug  8 11:48:36 2020
 
 """
 
+import networkx as nx
+
 def create_random_circuit(N):
     
     """

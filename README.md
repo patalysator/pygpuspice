@@ -17,3 +17,5 @@ Way forward:
 2. Extend the solver to work with non-linear components as well (diodes for example). Whereas (1) only needs to solve one matrix equation, 
 this requires solving a matrix equation iteratively. Important: the number of messages passed between GPU and memory must be minimized to 
 get the most out of its performance. Communication between memory and GPU is comparatively slow.
+
+For representing circuits, the networkx library shall be used.
